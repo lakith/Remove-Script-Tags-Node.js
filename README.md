@@ -1,6 +1,6 @@
 # Remove-Script-Tags-Node.js
 
-****This is the code  and the REGEX I have added to remove the script tags**
+**This is the code  and the REGEX I have added to remove the script tags**
 
 ```javascript
   removeScriptTags(text) {
